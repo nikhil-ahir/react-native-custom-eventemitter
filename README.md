@@ -1,1 +1,1 @@
-# react-native-custom-eventemitter
+# Extended the React Native EventEmitter to have remove event functionality. You may use this with FLUX.

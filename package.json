@@ -1,0 +1,28 @@
+{
+  "name": "react-native-custom-eventemitter",
+  "version": "1.0.0",
+  "description": "Extended the React Native EventEmitter to have remove event functionality.",
+  "main": "CustomEventEmitter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil-ahir/react-native-custom-eventemitter.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "event",
+    "emitter"
+  ],
+  "author": "Nikhil A.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikhil-ahir/react-native-custom-eventemitter/issues"
+  },
+  "homepage": "https://github.com/nikhil-ahir/react-native-custom-eventemitter#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
